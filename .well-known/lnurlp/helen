@@ -1,5 +1,5 @@
 {
-  "callback": "https://coinos.io/.well-known/lnurlp/helenyrmom/callback",
+  "callback": "https://coinos.io/api/lnurl/1a1b9e33-e3c8-4c3c-9681-63bab4f2668b",
   "maxSendable": 100000000000,
   "minSendable": 1000,
   "metadata": "[[\"text/plain\",\"helen\"]]",
