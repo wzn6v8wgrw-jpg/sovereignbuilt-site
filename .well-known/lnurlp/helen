@@ -3,5 +3,7 @@
   "maxSendable": 100000000000,
   "minSendable": 1000,
   "metadata": "[[\"text/plain\",\"helen\"]]",
-  "tag": "payRequest"
+  "tag": "payRequest",
+  "allowsNostr": true,
+  "nostrPubkey": "e5237023a5c0929e7ae0e5128d41a8213138400ec110dbe9d8a29278f22b7c13"
 }
