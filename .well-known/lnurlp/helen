@@ -2,6 +2,6 @@
   "callback": "https://coinos.io/.well-known/lnurlp/helenyrmom/callback",
   "maxSendable": 100000000000,
   "minSendable": 1000,
-  "metadata": "[[\"text/plain\",\"helenyrmom\"]]",
+  "metadata": "[[\"text/plain\",\"helen\"]]",
   "tag": "payRequest"
 }
